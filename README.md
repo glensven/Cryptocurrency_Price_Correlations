@@ -32,3 +32,26 @@ BTC, Bitcoin cash, Etherium, Litecoin, Tether, Dogecoin
   *Timeframe: Total History & shorter time period (2015?)
 4. Clean data
 5. Propose best possible correlations and construct Monte Carlo simulation 
+
+**Day 2:**
+Action Items:
+1.	EP pull Litecoin. 
+2.	Glen pull Eth.
+3.	Alex keep working with Bitcoin
+
+Types of Plots/Correlations
+1. Heatmaps by year
+2. Correlations on volume and price
+3. Coins mined
+Generally think about how we want to visualize and put together. 
+
+Nice to have:
+1.	Livestream pull. 
+2.	Time range pull. 
+3.	Plot treasuries & S&P 500.
+4.	More Tickers:	bitcoin cash and doge from Coinbase
+
+Tips:
+1.	Don’t take on too much. Priority is to get something that works.
+2.	Jason has a subscription to glassnode
+

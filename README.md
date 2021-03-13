@@ -55,3 +55,11 @@ Tips:
 1.	Don’t take on too much. Priority is to get something that works.
 2.	Jason has a subscription to glassnode
 
+**Day 4:**
+Work on Correlations and Graphs
+
+1. Price/Volume – Alex 
+2.	Addresses/Mining - Glen
+3.	Supply/Transactions – Erik 
+
+I’ll be testing Sharpe Ratio to see if it is a useful indicator overall

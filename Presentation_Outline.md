@@ -17,7 +17,7 @@ Utilizing Glassnode API to retreive pricing, trading activity, and mining activi
 2. Imported Libraries including new ones such as yfinance! 
 3. Collected the data from glassnode and yfinance API.
 4. Cleaned and aggregated the data from the API and Y Finance! 
-5. Conducted ana analysis utilizing correlations, ratios, and visualizations.
+5. Conducted a data analysis utilizing correlations, ratios, and visualizations.
 6. Condensed plots to a presentation format. 
 7. Merged all changes into a primary branch.
 

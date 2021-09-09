@@ -32,7 +32,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://raw.githubusercontent.com/glensven/Cryptocurrency_Price_Correlations/main/Image/Addresses.png)
 
 ## Key Features
 
@@ -54,6 +54,10 @@
 * Cross platform
   - Windows, macOS and Linux ready.
 
+## Contributors
+* Glen Svenningsen, Primary Author
+* Alex Manley
+* Erik Prieto
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:

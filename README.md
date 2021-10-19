@@ -1,65 +1,65 @@
-# Project-1
-**Project Title**
-‚ÄúGet Glen a Condo with a Crypto Picker‚Äù
 
-**Group 1 Team Members**
-Glen Svenningsen
-Alex Manley
-Erik Prieto
+<h1 align="center">
+  Cryptocurrency Price Correlation Dashboard
+  <br>
+</h1>
 
-**Project Description/Outline**
-Portfolio Analyzer of Crypto & Exchanges: Ability to pick a cryptocurrency and exchange based on historical information. Statistics would provide basis if cryptocurrency is in a bear or bull market position. Portfolio would leverage APIs and statistics to provide backbone to the project.
+<h4 align="center">A Dashboard of Cryptocurrency Correlations .</h4>
 
-**Research questions to answer**
-1. Correlation/Ratios between mining activity and volume
-2. Correlation/Ratios between crypto transactions and exchanges
-3. Correlation/Ratios between exchanges fees and quantity of new exchanges
-4. Correlation/Ratios on how cryptos are correlated with each other
+<p align="center">
+  <a href="#key-features">Key Features</a> ï
+  <a href="#how-to-use">How To Use</a> ï
+  <a href="#download">Download</a> ï
+  <a href="#credits">Authors</a> ï
+</p>
 
-**Datasets to be used:**  
-Glassnode, Coinbase, API from crypto HW
+![screenshot](https://raw.githubusercontent.com/glensven/Cryptocurrency_Price_Correlations/main/Image/Addresses.png)
 
-**Rough breakdown of tasks (2-3 next action items)**
-1. Scope of currencies to work with
-BTC, Bitcoin cash, Etherium, Litecoin, Tether, Dogecoin
-2. Determine how to structure data by reviewing APIs and analyzing which blocks of data to pull from each API (Alex to start)
-3. Collect data
-  *Price
-  *Mkt Cap
-  *Volume 
-  *Mining Activity
-  *Exchanges/Exchange Fees
-  *Timeframe: Total History & shorter time period (2015?)
-4. Clean data
-5. Propose best possible correlations and construct Monte Carlo simulation 
+## Key Features
 
-**Day 2:**
-Action Items:
-1.	EP pull Litecoin. 
-2.	Glen pull Eth.
-3.	Alex keep working with Bitcoin
+* LivePreview - Make changes, See changes
+  - Instantly see what your Markdown documents look like in HTML as you create them.
+* Sync Scrolling
+  - While you type, LivePreview will automatically scroll to the current location you're editing.
+* GitHub Flavored Markdown  
+* Syntax highlighting
+* [KaTeX](https://khan.github.io/KaTeX/) Support
+* Dark/Light mode
+* Toolbar for basic Markdown formatting
+* Supports multiple cursors
+* Save the Markdown preview as PDF
+* Emoji support in preview :tada:
+* App will keep alive in tray for quick usage
+* Full screen mode
+  - Write distraction free.
+* Cross platform
+  - Windows, macOS and Linux ready.
+## How To Use
 
-Types of Plots/Correlations
-1. Heatmaps by year
-2. Correlations on volume and price
-3. Coins mined
-Generally think about how we want to visualize and put together. 
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
-Nice to have:
-1.	Livestream pull. 
-2.	Time range pull. 
-3.	Plot treasuries & S&P 500.
-4.	More Tickers:	bitcoin cash and doge from Coinbase
+```bash
+# Clone this repository
+$ git clone https://github.com/amitmerchant1990/electron-markdownify
 
-Tips:
-1.	Don‚Äôt take on too much. Priority is to get something that works.
-2.	Jason has a subscription to glassnode
+# Go into the repository
+$ cd electron-markdownify
 
-**Day 4:**
-Work on Correlations and Graphs
+# Install dependencies
+$ npm install
 
-1. Price/Volume ‚Äì Alex 
-2.	Addresses/Mining - Glen
-3.	Supply/Transactions ‚Äì Erik 
+# Run the app
+$ npm start
+```
 
-I‚Äôll be testing Sharpe Ratio to see if it is a useful indicator overall
+Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
+## Authors
+
+* Primary: Glen Svenningsen
+* Alex Manley
+* Erik Prieto
+
+
+
+
